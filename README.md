@@ -10,8 +10,8 @@ As a senior data analyst at the company, you've been given access to the complet
 
 # Observations
 - The cancer treatment drug, "Ramicane" had the lowest reported tumor size, on average. Followed by "Capomulin" - These two drugs were far and away better than the   other reported medications/treatments.
--
--
+- "Propriva" had a very average response rate to other drugs, comparitively... however, it also had the least amount of testing data points.
+- The gender/sex breakdown of tested mice is almost a perfect split, making this test batch of data an equal playing field in terms of gender equality
 
 # Instructions
 <B>My tasks are to do the following:</B>
