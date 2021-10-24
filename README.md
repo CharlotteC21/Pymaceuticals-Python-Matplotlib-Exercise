@@ -9,7 +9,7 @@ As a senior data analyst at the company, you've been given access to the complet
 >
 
 # Observations
--
+- The cancer treatment drug, "Ramicane" had the lowest reported tumor size, on average.
 -
 -
 
