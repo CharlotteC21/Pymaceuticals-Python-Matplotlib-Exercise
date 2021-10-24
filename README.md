@@ -1,4 +1,4 @@
-# :sparkles:Matplotlib Homework - The Power of Plots:sparkles:
+# :sparkles:Matplotlib Homework - The Power of Plots:bar_chart:
 
 # Background
 >What good is data without a good plot to tell the story?
